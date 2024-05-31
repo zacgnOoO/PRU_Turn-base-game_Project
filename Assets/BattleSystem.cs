@@ -61,7 +61,7 @@ public class BattleSystem : MonoBehaviour
         GameObject attackAnimation = Instantiate(playerAttackPrefab, playerBattleStation.position, Quaternion.identity);
 
         // Optionally, you can set the animation to destroy itself after playing
-        Destroy(attackAnimation, 2f); // Adjust the time based on your animation length
+        Destroy(attackAnimation, 1f); // Adjust the time based on your animation length
 
         // Wait for the animation to finish
         yield return new WaitForSeconds(1f); // Adjust the time to match the length of your animation
@@ -96,10 +96,10 @@ public class BattleSystem : MonoBehaviour
         GameObject attackAnimation = Instantiate(enemyAttackPrefab, enemyBattleStation.position, Quaternion.identity);
 
         // Optionally, you can set the animation to destroy itself after playing
-        Destroy(attackAnimation, 2f); // Adjust the time based on your animation length
+        Destroy(attackAnimation, 4f); // Adjust the time based on your animation length
 
         // Wait for the animation to finish
-        yield return new WaitForSeconds(2f); // Adjust the time to match the length of your animation
+        yield return new WaitForSeconds(4f); // Adjust the time to match the length of your animation
 
         // Perform the attack logic
         bool isDead = playerUnit.TakeDamage(enemyUnit.damage);
