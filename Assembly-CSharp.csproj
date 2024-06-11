@@ -60,9 +60,65 @@
     <Analyzer Include="D:\Program Files\Unity Hub\Hub\Editor\2022.3.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\UtilsGuiDrawing.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\PhysicCharBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\TouchFollowBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\TileChunk.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\HelpText.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Samples\Scripts\DemoGUI.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\AI\NPCBasicAI.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileset.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileMapData.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Animation\DirectionalAnimationController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\VehicleCharController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\PlayerController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\MapPathFinding\MapPathFinding.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\BulletController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\Extra\Camera2DController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\AI\CompanionAI.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\TileChunkPool.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\UtilsSerialize.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\AI\FollowerAI.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Core\GameFactory.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\WeaponController.cs" />
     <Compile Include="Assets\BattleHUD.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\DamageBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Animation\DirectionalAnimation.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\TeleporterBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\CharBasicController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\AnimationController.cs" />
     <Compile Include="Assets\BattleSystem.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\UtilsAutoTileMap.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\PlayerTileMovementController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\MapPathFinding\MapPathFindingBehaviour.cs" />
     <Compile Include="Assets\Unit.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTile.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileMapGui.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\RpgMapHelper.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileMapSerializeData.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileMapEditorBehaviour.cs" />
+    <Compile Include="Assets\Encounter.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Core\ObjectGenerator.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\MapPathFinding\PathFinding.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileMap.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\Extra\FollowObjectBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Core\DamageData.cs" />
+    <Compile Include="Assets\SceneController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Controllers\IsoSpriteController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\Utils\EditorCompatibilityUtils.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Samples\Scripts\DemoPathFindingBehavior.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\AutoTileBrush.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\AutonomousAgents\MovingBehaviour.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Legacy\CharAnimationController.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\Utils\HandlesEx.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\Extra\ComboBox.cs" />
+    <Compile Include="Assets\CreativeSpore\RpgMapEditor\Scripts\RpgFramework\Behaviours\TileMovementBehaviour.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\___www.unityassetcollection.com___.txt" />
+    <None Include="Assets\CreativeSpore\RpgMapEditor\Samples\Gfx\Tilesets\macks\README_Credits.txt" />
+    <None Include="Assets\CreativeSpore\RpgMapEditor\changelog.txt" />
+    <None Include="Assets\CreativeSpore\RpgMapEditor\Samples\Gfx\Characters\README_Credits.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

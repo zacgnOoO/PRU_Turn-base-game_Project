@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|d:\\document\\pru\\pru_turn-base-game_project\\assets\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|solutionrelative:assets\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleSystem.cs",
+              "DocumentMoniker": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\BattleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\BattleSystem.cs",
+              "ToolTip": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\BattleSystem.cs",
+              "RelativeToolTip": "Assets\\BattleSystem.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAgwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:49:59.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

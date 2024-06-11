@@ -150,7 +150,7 @@ public class BattleSystem : MonoBehaviour
         Destroy(healAnimation, 2f); // Adjust the time based on your animation length
 
         // Thực hiện hồi máu
-        playerUnit.Heal(5);
+        playerUnit.Heal(20);
         playerHUD.SetHP(playerUnit.currentHP);
         dialogueText.text = "You feel renewed strength!";
 

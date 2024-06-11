@@ -25,14 +25,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5046871492963100558}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.99888253, z: -0, w: 0.047261823}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0.63, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6006800703958429558}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 174.582, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3763780388596319052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   unitName: Moon Wolf
   unitLevel: 100
-  damage: 20
+  damage: 1
   maxHP: 100
   currentHP: 100
 --- !u!1 &5234095063283599104
@@ -77,8 +77,8 @@ Transform:
   m_GameObject: {fileID: 5234095063283599104}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.03, y: 1.86, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: -0.326, y: 0.25, z: 0}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4580223938307558884}
