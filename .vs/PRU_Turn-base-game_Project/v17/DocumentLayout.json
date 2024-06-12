@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|d:\\document\\pru\\pru_turn-base-game_project\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|d:\\document\\pru\\pru_turn-base-game_project\\assets\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1DFADCA-79AE-415D-454E-92AAF53B7B71}|Assembly-CSharp.csproj|solutionrelative:assets\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:24:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BattleSystem.cs",
               "DocumentMoniker": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\BattleSystem.cs",
               "RelativeDocumentMoniker": "Assets\\BattleSystem.cs",
               "ToolTip": "D:\\Document\\PRU\\PRU_Turn-base-game_Project\\Assets\\BattleSystem.cs",
               "RelativeToolTip": "Assets\\BattleSystem.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAgwJ0AAAAAAAAA",
+              "ViewState": "AQIAAI8AAAAAAAAAAAA3wJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T02:49:59.364Z",
               "EditorCaption": ""
